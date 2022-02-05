@@ -19,10 +19,39 @@ Grading
 
 The grade will be based on homework and class participation and a term project as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework and Class Participation | 60% |
-| Term Project | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework and Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term Project
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The homework assignments will apply the material covered in lectures and are essential to learning that material. They will involve theory, modeling, and a few design exercises. The term project, comprised of a short oral presentation and a term paper, will be based on a student-selected topic related to some aspect of compressible fluid flow.
 
